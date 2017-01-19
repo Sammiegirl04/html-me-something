@@ -1,0 +1,26 @@
+body {
+	margin: 50px 25px 15px 50
+	font: 20px arial, sans-serif;
+}
+p {
+	font-family: "Times New Roman", Times, serif;
+	padding: 10px 30px 10px 60px
+}
+p.who{
+	color: slategray
+}
+h2{
+	background-color: thistle;
+}
+strong{
+	color: purple;
+}
+header{
+	margin: 30px 20px 30px 30px
+}
+div{
+	background-color: whitesmoke;
+}
+#description {
+	color: palevioletred;
+}
